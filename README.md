@@ -181,9 +181,8 @@ PDF: <https://arxiv.org/pdf/1708.00588>
 Data-assisted reduced-order modeling of extreme events in complex dynamical systems , 
 Project+Code: <https://github.com/zhong1wan/data-assisted>
 
-```diff
-- PDE-Net: Learning PDEs from Data, Project+Code: <https://github.com/ZichaoLong/PDE-Net>
-```
+PDE-Net: Learning PDEs from Data, 
+Project+Code: <https://github.com/ZichaoLong/PDE-Net>
 
 Learning Deep Neural Network Representations for Koopman Operators of Nonlinear Dynamical Systems , 
 PDF: <https://arxiv.org/pdf/1708.06850>
