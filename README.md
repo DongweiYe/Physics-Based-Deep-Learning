@@ -52,10 +52,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
-<div class="text-blue mb-2">
-  Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow, 
+```diff
+- Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow, 
 PDF: <https://arxiv.org/abs/2003.08723>
-</div>
 
 WeatherBench: A benchmark dataset for data-driven weather forecasting , 
 Project: <https://github.com/pangeo-data/WeatherBench>
@@ -285,4 +284,4 @@ mantaflow: <http://mantaflow.com>
 Physics-based deep learning is a very dynamic field. Please let us know if we've overlooked
 papers that you think should be included by sending a mail to _i15ge at cs.tum.de_,
 and feel free to check out our homepage at <https://ge.in.tum.de/>.
- 
+```
