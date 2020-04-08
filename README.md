@@ -53,7 +53,7 @@ learning in general.
 ## I15 Physics-based Deep Learning Links
 
 
-[Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow](#d73a49) , 
+@Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow]@, 
 PDF: <https://arxiv.org/abs/2003.08723>
 
 WeatherBench: A benchmark dataset for data-driven weather forecasting , 
