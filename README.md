@@ -52,6 +52,7 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+```diff
 + Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow , 
 PDF: <https://arxiv.org/abs/2003.08723>
 
