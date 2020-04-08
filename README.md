@@ -55,6 +55,7 @@ learning in general.
 ```diff
 - Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow, 
 PDF: <https://arxiv.org/abs/2003.08723>
+```
 
 WeatherBench: A benchmark dataset for data-driven weather forecasting , 
 Project: <https://github.com/pangeo-data/WeatherBench>
@@ -182,8 +183,10 @@ PDF: <https://arxiv.org/pdf/1708.00588>
 Data-assisted reduced-order modeling of extreme events in complex dynamical systems , 
 Project+Code: <https://github.com/zhong1wan/data-assisted>
 
+```diff
 - PDE-Net: Learning PDEs from Data , 
 Project+Code: <https://github.com/ZichaoLong/PDE-Net>
+```
 
 Learning Deep Neural Network Representations for Koopman Operators of Nonlinear Dynamical Systems , 
 PDF: <https://arxiv.org/pdf/1708.06850>
@@ -284,4 +287,4 @@ mantaflow: <http://mantaflow.com>
 Physics-based deep learning is a very dynamic field. Please let us know if we've overlooked
 papers that you think should be included by sending a mail to _i15ge at cs.tum.de_,
 and feel free to check out our homepage at <https://ge.in.tum.de/>.
-```
+
